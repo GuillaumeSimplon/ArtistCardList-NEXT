@@ -1,0 +1,347 @@
+{
+    "artistes": [
+      {
+        "nom": "Taylor Swift",
+        "typeMusique": "Pop",
+        "albums": [
+          {
+            "titre": "Fearless",
+            "dateParution": "2008-11-11",
+            "producteur": "Taylor Swift",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "1989",
+            "dateParution": "2014-10-27",
+            "producteur": "Taylor Swift",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Beyoncé",
+        "typeMusique": "R&B",
+        "albums": [
+          {
+            "titre": "Lemonade",
+            "dateParution": "2016-04-23",
+            "producteur": "Beyoncé",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Dangerously in Love",
+            "dateParution": "2003-06-24",
+            "producteur": "Beyoncé",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Ed Sheeran",
+        "typeMusique": "Pop",
+        "albums": [
+          {
+            "titre": "÷ (Divide)",
+            "dateParution": "2017-03-03",
+            "producteur": "Ed Sheeran",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "X",
+            "dateParution": "2014-06-23",
+            "producteur": "Ed Sheeran",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Rihanna",
+        "typeMusique": "Pop, R&B",
+        "albums": [
+          {
+            "titre": "Anti",
+            "dateParution": "2016-01-28",
+            "producteur": "Rihanna",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Loud",
+            "dateParution": "2010-11-12",
+            "producteur": "Rihanna",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Drake",
+        "typeMusique": "Rap",
+        "albums": [
+          {
+            "titre": "Scorpion",
+            "dateParution": "2018-06-29",
+            "producteur": "Drake",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Views",
+            "dateParution": "2016-04-29",
+            "producteur": "Drake",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Adele",
+        "typeMusique": "Pop",
+        "albums": [
+          {
+            "titre": "25",
+            "dateParution": "2015-11-20",
+            "producteur": "Adele",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "21",
+            "dateParution": "2011-01-24",
+            "producteur": "Adele",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Kanye West",
+        "typeMusique": "Rap",
+        "albums": [
+          {
+            "titre": "My Beautiful Dark Twisted Fantasy",
+            "dateParution": "2010-11-22",
+            "producteur": "Kanye West",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Yeezus",
+            "dateParution": "2013-06-18",
+            "producteur": "Kanye West",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Bruno Mars",
+        "typeMusique": "Pop, R&B",
+        "albums": [
+          {
+            "titre": "24K Magic",
+            "dateParution": "2016-11-18",
+            "producteur": "Bruno Mars",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Unorthodox Jukebox",
+            "dateParution": "2012-12-07",
+            "producteur": "Bruno Mars",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Lady Gaga",
+        "typeMusique": "Pop",
+        "albums": [
+          {
+            "titre": "The Fame",
+            "dateParution": "2008-08-19",
+            "producteur": "Lady Gaga",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Born This Way",
+            "dateParution": "2011-05-23",
+            "producteur": "Lady Gaga",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Justin Bieber",
+        "typeMusique": "Pop",
+        "albums": [
+          {
+            "titre": "Purpose",
+            "dateParution": "2015-11-13",
+            "producteur": "Justin Bieber",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Believe",
+            "dateParution": "2012-06-15",
+            "producteur": "Justin Bieber",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Billie Eilish",
+        "typeMusique": "Pop, Alternative",
+        "albums": [
+          {
+            "titre": "When We All Fall Asleep, Where Do We Go?",
+            "dateParution": "2019-03-29",
+            "producteur": "Billie Eilish",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Happier Than Ever",
+            "dateParution": "2021-07-30",
+            "producteur": "Billie Eilish",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "The Weeknd",
+        "typeMusique": "R&B",
+        "albums": [
+          {
+            "titre": "After Hours",
+            "dateParution": "2020-03-20",
+            "producteur": "The Weeknd",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Starboy",
+            "dateParution": "2016-11-25",
+            "producteur": "The Weeknd",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Ariana Grande",
+        "typeMusique": "Pop, R&B",
+        "albums": [
+          {
+            "titre": "Thank U, Next",
+            "dateParution": "2019-02-08",
+            "producteur": "Ariana Grande",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Dangerous Woman",
+            "dateParution": "2016-05-20",
+            "producteur": "Ariana Grande",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Coldplay",
+        "typeMusique": "Pop, Rock",
+        "albums": [
+          {
+            "titre": "A Head Full of Dreams",
+            "dateParution": "2015-12-04",
+            "producteur": "Coldplay",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Viva la Vida or Death and All His Friends",
+            "dateParution": "2008-06-12",
+            "producteur": "Coldplay",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Eminem",
+        "typeMusique": "Rap",
+        "albums": [
+          {
+            "titre": "The Marshall Mathers LP",
+            "dateParution": "2000-05-23",
+            "producteur": "Eminem",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "The Eminem Show",
+            "dateParution": "2002-05-26",
+            "producteur": "Eminem",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Katy Perry",
+        "typeMusique": "Pop",
+        "albums": [
+          {
+            "titre": "Teenage Dream",
+            "dateParution": "2010-08-24",
+            "producteur": "Katy Perry",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Prism",
+            "dateParution": "2013-10-18",
+            "producteur": "Katy Perry",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Maroon 5",
+        "typeMusique": "Pop, Rock",
+        "albums": [
+          {
+            "titre": "Songs About Jane",
+            "dateParution": "2002-06-25",
+            "producteur": "Maroon 5",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Overexposed",
+            "dateParution": "2012-06-26",
+            "producteur": "Maroon 5",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Sia",
+        "typeMusique": "Pop",
+        "albums": [
+          {
+            "titre": "1000 Forms of Fear",
+            "dateParution": "2014-07-04",
+            "producteur": "Sia",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "This Is Acting",
+            "dateParution": "2016-01-29",
+            "producteur": "Sia",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      },
+      {
+        "nom": "Imagine Dragons",
+        "typeMusique": "Pop, Rock",
+        "albums": [
+          {
+            "titre": "Night Visions",
+            "dateParution": "2012-09-04",
+            "producteur": "Imagine Dragons",
+            "imageAlbum": "lien_image"
+          },
+          {
+            "titre": "Evolve",
+            "dateParution": "2017-06-23",
+            "producteur": "Imagine Dragons",
+            "imageAlbum": "lien_image"
+          }
+        ]
+      }
+    ]
+  }
+  
